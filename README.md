@@ -1,2 +1,20 @@
-# math-adventure-grade3
- An interactive educational game for teaching multiplication to third-grade elementary students.
+
+# Multiplication Adventure
+
+An interactive educational game for third-grade elementary students.
+
+## About
+
+This game helps students practice multiplication through
+interactive questions, scoring, and immediate feedback.
+
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+
+## Educational Goal
+
+To strengthen students' understanding and practice of multiplication
+in an engaging and interactive way.
