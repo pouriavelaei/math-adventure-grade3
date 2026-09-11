@@ -1,20 +1,23 @@
+# Multiplication Adventure — ماجراجویی در دنیای ضرب
 
-# Multiplication Adventure
+یک بازی آموزشی و کاملاً تعاملی برای تمرین ضرب دانش‌آموزان پایه سوم ابتدایی. بازیکن با پاسخ به ۱۰ سؤال چهارگزینه‌ای، امتیاز و جان جمع می‌کند و در پایان نتیجه آموزشی خود را می‌بیند.
 
-An interactive educational game for third-grade elementary students.
+## امکانات
 
-## About
+- ۱۰ سؤال متنوع از ساده تا چالشی، شامل سؤال‌های داستانی و جمع تکراری
+- امتیازدهی از ۱۰۰، سیستم ۳ جان و بازخورد فوری آموزشی
+- نوار پیشرفت، انیمیشن‌های ملایم و طراحی واکنش‌گرا برای موبایل و دسکتاپ
+- نمایش نتیجه، درصد موفقیت و بهترین امتیاز ذخیره‌شده در مرورگر
+- رابط کاربری کاملاً فارسی و راست‌به‌چپ
 
-This game helps students practice multiplication through
-interactive questions, scoring, and immediate feedback.
+## تکنولوژی
 
-## Technologies
+HTML5، CSS3 و JavaScript خام؛ بدون Backend، وابستگی خارجی، CDN یا مرحله Build.
 
-- HTML
-- CSS
-- JavaScript
+## اجرای محلی
 
-## Educational Goal
+فایل `index.html` را مستقیماً در مرورگر باز کنید. برای اجرای بازی به نصب هیچ ابزار یا سرویس دیگری نیاز نیست.
 
-To strengthen students' understanding and practice of multiplication
-in an engaging and interactive way.
+## انتشار در GitHub Pages
+
+مخزن را در GitHub قرار دهید، سپس از مسیر **Settings → Pages**، شاخه و پوشه ریشه (`/root`) را به‌عنوان منبع انتشار انتخاب کنید. چون `index.html` در ریشه قرار دارد و مسیرها نسبی هستند، سایت بدون تغییر روی GitHub Pages اجرا می‌شود.
